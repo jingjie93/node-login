@@ -64,3 +64,6 @@ Note this database automatically resets every 24 hours.
 ##Contributing
 
 Questions and suggestions for improvement are welcome.
+
+
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
